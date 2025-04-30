@@ -1,0 +1,6 @@
+# .gitignore file
+
+venv/
+__pycache__/
+*.pyc
+.env  # <-- Add this line!
